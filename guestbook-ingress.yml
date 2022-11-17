@@ -17,13 +17,4 @@ spec:
             name: frontend
             port:
               number: 80
-#  - host: wiki.darkleafygreens.com
-#    http:
-#      paths:
-#      - path: /
-#        pathType: Prefix
-#        backend:
-#          service:
-#            name: wikijs
-#            port:
-#              number: 80
+
